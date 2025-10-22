@@ -4,8 +4,9 @@
 
 # Databases
 
-- Public Wisdom: curated principles from public sources.
-- Personal Sayings: curated valuable or unique principles shared by users that may not be widely available.
+- Mental Tools: conceptual models, heuristics, and reasoning frameworks that improve thinking, problem-solving, and decision-making.
+- Quotes: insights, advice, or reflection from philosophers and thinkers.
+- Personal Sayings: sayings by users that may not be widely available.
 
 # Guidelines
 
