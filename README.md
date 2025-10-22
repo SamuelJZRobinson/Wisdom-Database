@@ -42,8 +42,6 @@
 ## Text Modifications
 
 - Prefixes (choose one if it applies):
-  - Author: "Bob: text".
-  - Concept Title: "Buridan's Ass: text".
 - Ellipses (…): show shortened and merged ideas (e.g., consider alternative actions by weighing their pros, cons, ... and likelihoods).
 
 ## Database Fields
