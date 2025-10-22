@@ -4,7 +4,7 @@
 
 # Databases
 
-- Mental Tools: conceptual models, heuristics, and reasoning frameworks that improve thinking, problem-solving, and decision-making.
+- Mental Tools: conceptual instruments that improve thinking, decisions, and problem solving.
 - Quotes: insights, advice, or reflection from philosophers and thinkers.
 - Personal Sayings: sayings by users that may not be widely available.
 
