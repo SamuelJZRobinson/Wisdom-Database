@@ -12,6 +12,7 @@
 ## Contributions
 
 - Adhere all rules and guidelines.
+- Recommended VS Code extension: https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv.
 - Clone the repository and submit pull requests.
 
 ## Content
