@@ -1,4 +1,4 @@
-﻿Category,Title,Description,Date Accessed (dmy),Source
+﻿Category,Title,Summary,Date Accessed (dmy),Source
 Wisdom,Wisdom Traits,"Recognize the limits of your knowledge, acknowledge uncertainty and change, attention to context and the bigger picture, integrate different perspectives of a situation,... balance intrapersonal (self), interpersonal (others), and institutional (society) interests,... and emotional regulation.",22 Oct 2025,https://en.wikipedia.org/wiki/Wisdom
 Problem Solving,Blind Men And An Elephant,Consider multiple perspectives as no single viewpoint captures the whole truth.,22 Oct 2025,https://en.wikipedia.org/wiki/Blind_men_and_an_elephant
 Problem Solving,Buridan's Ass,Excessive indecision between options risks inaction and missed opportunities.,22 Oct 2025,https://en.wikipedia.org/wiki/List_of_paradoxes
@@ -15,7 +15,7 @@ Ethics,Chesterton's Fence,Don't change a system or rule until you understand why
 Risk Management,Swiss Cheese Model,No safeguard is perfect so use multiple to prevent a single point of failure.,22 Oct 2025,https://en.wikipedia.org/wiki/Swiss_cheese_model
 Risk Management,Bus Factor,The risk of losing critical knowledge if key team members leave or die.,22 Oct 2025,https://en.wikipedia.org/wiki/Bus_factor
 Psychology,Idea Metaphors,"Location (movement), object (manipulated), and food (consumed)",22 Oct 2025,https://sketchplanations.com/metaphors-for-ideas
-Problem Solving,"Rose, Thorn, And Bud","""What is going well?, ""What is not working?"", and ""What could we try?”",22 Oct 2025,https://sketchplanations.com/rose-thorn-bud
+Problem Solving,"Rose, Thorn, And Bud Model","""What is going well?, ""What is not working?"", and ""What could we try?”",22 Oct 2025,https://sketchplanations.com/rose-thorn-bud
 Problem Solving,XY Problem,Ensure the root cause of a problem is correctly identified before finding a solution.,22 Oct 2025,https://en.wikipedia.org/wiki/XY_problem
 Problem Solving,Yak Shaving,Don’t get sidetracked by small trivial tasks that detract from the main goal.,22 Oct 2025,https://sketchplanations.com/yak-shaving
 Heuristic,Decision Heuristics,"Take-the-first, take-the-best, hiatus, default, priority, recognition, fluency, tradeoff, and trial-and-error",22 Oct 2025,https://en.wikipedia.org/wiki/Heuristic
@@ -33,3 +33,10 @@ Time Management,Relevance Question,"""Will this matter a year from now?”",22 O
 Time Management,Productivity Questions,"“What am I doing now?”, “Is it getting me anywhere?"", and “What else could I be doing instead?”",22 Oct 2025,https://en.wikipedia.org/wiki/Metacognition
 Metacognition,Improve Metacognition,"Self-questioning,... think aloud,... and make graphic representations of thoughts and knowledge.",22 Oct 2025,https://en.wikipedia.org/wiki/Metacognition
 Time Management,Time Wasters,"Lack of priorities, waiting for inspiration, doing everything yourself, worrying what people will say, not living your life, fearing failure, complaining, unfinished tasks, pleasing everybody, comparing yourself to others, repeating mistakes, and perfectionism",22 Oct 2025,https://www.linkedin.com/posts/davidsymsmith_timewasters-timemanagement-productivity-activity-7184998089454182401-aEWt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_-VgUBGVZMBxsY1V7TlPQyQsmUwW8dqMk
+Ethics,Accountability Mindset,"Acknowledges mistakes, takes responsibility, finds solutions, and makes it happen.",23 Oct 2025,https://sketchplanations.com/the-accountability-ladder
+Ethics,Real Online,Be real online as anonymity often encourages bad behavior.,23 Oct 2025,https://sketchplanations.com/be-real-on-the-internets
+Ethics,Never Just This Once,It's easier to uphold your principles 100% of the time when you never compromise.,23 Oct 2025,https://sketchplanations.com/the-dangers-of-just-this-once
+Ethics,Hope Model,"Desire a future state, see alternative pathways, and believe in your agency and ability to succeed.",23 Oct 2025,https://sketchplanations.com/hope
+Ethics,Point Positive,It’s more constructive to point to solutions than to problems.,23 Oct 2025,https://sketchplanations.com/point-positive
+Communication,Inverted Pyramid Writing,Prioritize presenting information by importance.,23 Oct 2025,https://sketchplanations.com/inverted-pyramid-writing
+Communication,Top-down Writing,Structure information in a logical hierarchy with a main idea and linking ideas.,23 Oct 2025,https://sketchplanations.com/the-pyramid-principle
