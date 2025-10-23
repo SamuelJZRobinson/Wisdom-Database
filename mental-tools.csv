@@ -15,7 +15,7 @@ Ethics,Chesterton's Fence,Don't change a system or rule until you understand why
 Risk Management,Swiss Cheese Model,No safeguard is perfect so use multiple to prevent a single point of failure.,22 Oct 2025,https://en.wikipedia.org/wiki/Swiss_cheese_model
 Risk Management,Bus Factor,The risk of losing critical knowledge if key team members leave or die.,22 Oct 2025,https://en.wikipedia.org/wiki/Bus_factor
 Psychology,Idea Metaphors,"Location (movement), object (manipulated), and food (consumed)",22 Oct 2025,https://sketchplanations.com/metaphors-for-ideas
-Problem Solving,"Rose, Thorn, And Bud Model","""What is going well?, ""What is not working?"", and ""What could we try?”",22 Oct 2025,https://sketchplanations.com/rose-thorn-bud
+Problem Solving,"Rose, Thorn, And Bud Model","""What is going well?"", ""What is not working?"", and ""What could we try?”",22 Oct 2025,https://sketchplanations.com/rose-thorn-bud
 Problem Solving,XY Problem,Ensure the root cause of a problem is correctly identified before finding a solution.,22 Oct 2025,https://en.wikipedia.org/wiki/XY_problem
 Problem Solving,Yak Shaving,Don’t get sidetracked by small trivial tasks that detract from the main goal.,22 Oct 2025,https://sketchplanations.com/yak-shaving
 Heuristic,Decision Heuristics,"Take-the-first, take-the-best, hiatus, default, priority, recognition, fluency, tradeoff, and trial-and-error",22 Oct 2025,https://en.wikipedia.org/wiki/Heuristic
@@ -38,3 +38,13 @@ Ethics,Real Online,Be real online as anonymity often encourages bad behavior.,23
 Ethics,Never Just This Once,It's easier to uphold your principles 100% of the time when you never compromise.,23 Oct 2025,https://sketchplanations.com/the-dangers-of-just-this-once
 Ethics,Hope Model,"Desire a future state, see alternative pathways, and believe in your agency and ability to succeed.",23 Oct 2025,https://sketchplanations.com/hope
 Ethics,Point Positive,It’s more constructive to point to solutions than to problems.,23 Oct 2025,https://sketchplanations.com/point-positive
+Ethics,Civil Conversation Rules,"Reach a shared understanding rather than winning; clarify others’ perspectives; avoid logical fallacies; recognize personal biases and be intellectually humble; be reasonable, rational, and create coherent arguments; avoid personal attacks and mean-spiritedness; apply the principle of charity; and be open to changing your mind.",23 Oct 2025,https://therulesofcivilconversation.org/
+Problem Solving,KISS,Most systems work and are understood better if they are kept simple.,23 Oct 2025,https://github.com/webpro/programming-principles
+Problem Solving,YAGNI,Don't implement something until it's necessary.,23 Oct 2025,https://github.com/webpro/programming-principles
+Problem Solving,Simplest-First,Do the simplest thing that could possibly work.,23 Oct 2025,https://github.com/webpro/programming-principles
+Problem Solving,Separation of Concerns,Divide a system into distinct sections that handle a single concern.,23 Oct 2025,https://github.com/webpro/programming-principles
+Problem Solving,Code For The Maintainer,Design and document systems so others can maintain them easily.,23 Oct 2025,https://github.com/webpro/programming-principles
+Problem Solving,Avoid Premature Optimization,Focus on completing essential parts and optimize later if necessary.,23 Oct 2025,https://github.com/webpro/programming-principles
+Problem Solving,Optimize For Deletion,Design systems so components can be easily changed later.,23 Oct 2025,https://github.com/webpro/programming-principles
+Problem Solving,DRY,Avoid duplication and ensure each piece of knowledge has a single source.,23 Oct 2025,https://github.com/webpro/programming-principles
+Ethics,Boy Scout Rule,Leave the campground cleaner than you found it.,23 Oct 2025,https://github.com/webpro/programming-principles
