@@ -1,7 +1,7 @@
 ﻿Category,Title,Summary,Date Accessed (dmy),Source
 Wisdom,Wisdom Traits,"Recognize the limits of your knowledge, acknowledge uncertainty and change, attention to context and the bigger picture, integrate different perspectives of a situation,... balance intrapersonal (self), interpersonal (others), and institutional (society) interests,... and emotional regulation.",22 Oct 2025,https://en.wikipedia.org/wiki/Wisdom
 Problem Solving,Blind Men And An Elephant,Consider multiple perspectives as no single viewpoint captures the whole truth.,22 Oct 2025,https://en.wikipedia.org/wiki/Blind_men_and_an_elephant
-Problem Solving,Buridan's Ass,Excessive indecision between options risks inaction and missed opportunities.,22 Oct 2025,https://en.wikipedia.org/wiki/List_of_paradoxes
+Problem Solving,Buridan's Ass,Analysis paralysis between two equal options risks missed opportunities.,22 Oct 2025,https://en.wikipedia.org/wiki/List_of_paradoxes
 Problem Solving,Willpower Paradox,People may do things better by focusing less directly on doing them.,22 Oct 2025,https://en.wikipedia.org/wiki/List_of_paradoxes
 Problem Solving,Inventor's Paradox,Solving general problems can reveal principles to solve specific problems.,22 Oct 2025,https://en.wikipedia.org/wiki/List_of_paradoxes
 Aesthetics,Suspension Of Disbelief,Ignoring the impossible aspects of fiction to enjoy it.,22 Oct 2025,https://en.wikipedia.org/wiki/Suspension_of_disbelief
@@ -25,7 +25,7 @@ Risk Management,Goodhart's Law,"When a measure becomes a target, it ceases to be
 Project Management,Brooks's Law,Adding manpower to a late software project makes it later.,22 Oct 2025,https://en.wikipedia.org/wiki/List_of_eponymous_laws
 Project Management,Hofstadter's Law,Tasks always take longer than you expect.,22 Oct 2025,https://en.wikipedia.org/wiki/List_of_eponymous_laws
 Problem Solving,Gall's Law,Functioning complex systems evolve from functioning simple systems.,22 Oct 2025,https://en.wikipedia.org/wiki/List_of_eponymous_laws
-Problem Solving,Pareto Principle,80% of consequences stem from 20% of the causes.,22 Oct 2025,https://en.wikipedia.org/wiki/List_of_eponymous_laws
+Problem Solving,Pareto Principle,80% of outputs tend to come from 20% of inputs.,22 Oct 2025,https://en.wikipedia.org/wiki/List_of_eponymous_laws
 Problem Solving,Tesler's Law,Every software application has an inherent amount of complexity that cannot be removed or hidden.,22 Oct 2025,https://en.wikipedia.org/wiki/List_of_eponymous_laws
 Ethics,Front Page Test,How would you feel if everyone knew about your actions?,22 Oct 2025,https://sketchplanations.com/the-front-page-test
 Ethics,"Everybody, Somebody, Anybody, And Nobody","Take responsibility and don't assume others will do what you won’t.",22 Oct 2025,https://sketchplanations.com/whose-job-is-it
@@ -48,3 +48,18 @@ Problem Solving,Avoid Premature Optimization,Focus on completing essential parts
 Problem Solving,Optimize For Deletion,Design systems so components can be easily changed later.,23 Oct 2025,https://github.com/webpro/programming-principles
 Problem Solving,DRY,Avoid duplication and ensure each piece of knowledge has a single source.,23 Oct 2025,https://github.com/webpro/programming-principles
 Ethics,Boy Scout Rule,Leave the campground cleaner than you found it.,23 Oct 2025,https://github.com/webpro/programming-principles
+Ethics,The Two Wolves,There is a good and evil wolf within us and the one you feed the most prevails.,3 Nov 2025,https://en.wikipedia.org/wiki/Two_Wolves
+Ethics,The Greatest Command,Love God wholly and love your neighbour as yourself.,3 Nov 2025,https://en.wikipedia.org/wiki/Great_Commandment
+Ethics,4000 Weeks,If you live to be 80 then you have 4000 weeks to live.,3 Nov 2025,https://en.wikipedia.org/wiki/Four_Thousand_Weeks:_Time_Management_for_Mortals
+Problem Solving,The Map Is Not the Territory,Mental models are useful abstractions that simplify the complexity of reality but don't caputure everything.,3 Nov 2025,https://fs.blog/map-and-territory/
+Problem Solving,The Metathinking Process,"Deep (Research/Define), Wide (Creative/Divergent), Narrow (Critical/Convergent), Up (Synthesize/Iterate)",3 Nov 2025,https://kitted.app/insight/the-metathinking-process/0010
+Psychology,Growth Mindset,The belief that intelligence and psychological capabilities can be developed through effort.,3 Nov 2025,https://en.wiktionary.org/wiki/growth_mindset
+Psychology,"Maslow's Hierarchy Of Needs
+","Physiological, Safety, Love And Belonging, Esteem, and Self-actualisation",3 Nov 2025,https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs
+Ethics,Circle Of Competence,Stay within the domains matching your skills and expertise.,3 Nov 2025,https://en.wikipedia.org/wiki/Circle_of_competence
+Problem Solving,First Principles Thinking,Breakdown problems into fundamental parts to seperate what is absolutely true vs assumptions to build a foundation.,3 Nov 2025,https://fs.blog/first-principles/
+Problem Solving,Second-Order Thinking,Consider the long-term consequences of decisions.,3 Nov 2025,https://fs.blog/second-order-thinking/
+Problem Solving,Socratic Questioning,Clarify thinking and its origin; Challenge assumptions; Request evidence; Explore alternative perspectives and conflicts between contentions; Explore implications and consequences; Question the question.,3 Nov 2025,https://en.wikipedia.org/wiki/Socratic_questioning
+Economics,Law Of Diminishing Returns,Benefits are never infinitely scalable and tend to decay rapidly at a certain point.,3 Nov 2025,https://kitted.app/insight/the-law-of-diminishing-returns/0046
+Problem Solving,Probabilistic Thinking,Estimating the likelihood of uncertain events to make better decisions.,3 Nov 2025,https://fs.blog/probabilistic-thinking/
+Project Management,Minimum Viable Product,Create a basic useable product that focuses on key features to quickly challenge assumptions and gather feedback.,3 Nov 2025,https://en.wikipedia.org/wiki/Minimum_viable_product
