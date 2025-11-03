@@ -1,34 +1,37 @@
 # Wisdom-Database
 
 - The wisdom database is designed to provide a structured collection of concise actionable principles from diverse sources to make better moral, ethical, and practical decisions.
+- The project is continously evolving over time so some things may be subject to change.
 
 # Databases
 
-- Mental Tools: conceptual instruments that improve thinking, decisions, and problem solving.
-- Quotes: insights, advice, or reflection from philosophers and thinkers.
-- Personal Sayings: sayings by users that may not be widely available.
+- Mental Tools: concepts that improve thinking, decision-making, and problem-solving.
+- Practical Tools: techniques for taking action and getting things done.
+
+- Offical Quotes: advice or reflections from philosophers and thinkers. Depending on how the project unfolds this will either be removed due to other services storing quotes or only have very specific helpful quotes.
+- Personal Quotes: personal sayings submited by users.
 
 # Guidelines
 
 ## Contributions
 
 - Adhere all rules and guidelines.
+- Having some understanding of the subject matter is recommended.
 - Recommended VS Code extension: https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv.
 - Clone the repository and submit pull requests.
 
 ## Content
 
-- A record must contain actionable principles guiding moral, ethical, or practical decisions. Avoid descriptions of subject matter, history, definitions, or context that doesn't offer guidance or actionable principles.
-- A record must contain one atomic idea.
-- A record must only feature text available on the page.
+- A record must contain actionable ideas, advice, and principles to guide decisions.
+- A record must contain one atomic idea or compact frameworks.
 - A record must be unique.
 - A record must not repeat information.
 
 ## Style
 
-- A record must express ideas accurately with the least amount of words, preferably 10 words or less. Extra words increase processing time, editing time, and the chance of errors.
-- A record must aim to be word-for-word but can simplify jargon, remove filler words, shorten long quotes, and merge quotes to form one cohesive idea.
-- A record must use numerals (e.g., 0) instead of words (e.g., zero).
+- A record should summarize ideas to be conicse, accurate, and easy to understand. Use simple word for word statements if they're available. Simplify jargon, remove filler words, shorten long quotes, and merge quotes to form one cohesive idea.
+- A record should express ideas using the least amount of words, preferably 10 words or less. Extra words increase processing time, editing time, the chance of errors, and make it harder to memorize.
+- A record must use numerals (e.g., 0) instead of words (e.g., zero) better readability.
 
 ## Prohibited Content
 
@@ -37,7 +40,7 @@
 
 ## Data Validation
 
-- A record must fill all database fields otherwise it's invalid.
+- A record must fill in all database fields otherwise it's invalid.
 
 ## Text Modifications
 
@@ -46,8 +49,8 @@
 
 ## Database Fields
 
-- Category: subject path (e.g, philosophy/topic).
-- Text: main quoted material.
+- Category: single keyword category (e.g., philosophy). It's assigned based on the best guess.
+- Text: summary or quote.
 - Access Date: relative date the source was viewed to track changes. Date format: day month year (e.g., 11 Feb 2025).
 - Source: URL, book, or other reference.
 
