@@ -45,7 +45,7 @@
 ## Text Modifications
 
 - Prefixes (choose one if it applies):
-- Ellipses (…): show shortened and merged ideas (e.g., evaluate alternatives by weighing their benefits, drawbacks, and ... likelihoods).
+- Ellipses (…): show shortened and merged ideas (e.g., evaluate alternatives by weighing their benefits, drawbacks, ... and likelihoods).
 
 ## Database Fields
 
